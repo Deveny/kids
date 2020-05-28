@@ -4318,6 +4318,83 @@ section.lazy-placeholder:after {
   padding-bottom: 60px;
   background-image: url("../../../assets/images/workshop-film5.jpeg");
 }
+.cid-s0cZwoqUr8 {
+  padding-top: 60px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s0cZwoqUr8 .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-s0cZwoqUr8 .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-s0cZwoqUr8 .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-s0cZwoqUr8 .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-s0cZwoqUr8 .row > .row {
+  display: block;
+}
+.cid-s0cZwoqUr8 .mbr-gallery-item {
+  width: 100%;
+}
+.cid-s0cZwoqUr8 .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #ffce00;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-s0cZwoqUr8 .mbr-gallery-item > div {
+  position: relative;
+}
+.cid-s0cZwoqUr8 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-s0cZwoqUr8 .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-s0cZwoqUr8 .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-s0cZwoqUr8 .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #ffce00 !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
+.cid-s0hdDUFe9e {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s0hdDUFe9e .mbr-text {
+  color: #232323;
+}
 .cid-s0cZ64ZqRP {
   padding-top: 0px;
   padding-bottom: 15px;
@@ -4387,74 +4464,13 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
-.cid-s0cZwoqUr8 {
-  padding-top: 0px;
-  padding-bottom: 15px;
+.cid-s0hdhRuyZR {
+  padding-top: 45px;
+  padding-bottom: 0px;
   background-color: #ffffff;
 }
-.cid-s0cZwoqUr8 .mbr-slider .carousel-control {
-  background: #1b1b1b;
-}
-.cid-s0cZwoqUr8 .mbr-slider .carousel-control-prev {
-  left: 0;
-  margin-left: 2.5rem;
-}
-.cid-s0cZwoqUr8 .mbr-slider .carousel-control-next {
-  right: 0;
-  margin-right: 2.5rem;
-}
-.cid-s0cZwoqUr8 .mbr-slider .modal-body .close {
-  background: #1b1b1b;
-}
-.cid-s0cZwoqUr8 .row > .row {
-  display: block;
-}
-.cid-s0cZwoqUr8 .mbr-gallery-item {
-  width: 100%;
-}
-.cid-s0cZwoqUr8 .mbr-gallery-item > div::before {
-  content: '';
-  position: absolute;
-  left: 0;
-  top: 0;
-  width: 100%;
-  height: 100%;
-  background: #ffce00;
-  opacity: 0;
-  -webkit-transition: 0.2s opacity ease-in-out;
-  transition: 0.2s opacity ease-in-out;
-}
-.cid-s0cZwoqUr8 .mbr-gallery-item > div {
-  position: relative;
-}
-.cid-s0cZwoqUr8 .mbr-gallery-item > div:hover .mbr-gallery-title::before {
-  background: transparent !important;
-}
-.cid-s0cZwoqUr8 .mbr-gallery-item > div:hover:before {
-  opacity: 0.7 !important;
-}
-.cid-s0cZwoqUr8 .mbr-gallery-title {
-  font-size: .9em;
-  position: absolute;
-  display: block;
-  width: 100%;
-  bottom: 0;
-  padding: 1rem;
-  color: #fff;
-  z-index: 2;
-}
-.cid-s0cZwoqUr8 .mbr-gallery-title:before {
-  content: " ";
-  width: 100%;
-  height: 100%;
-  top: 0;
-  left: 0;
-  z-index: -1;
-  position: absolute;
-  background: #ffce00 !important;
-  opacity: 0.7;
-  -webkit-transition: 0.2s background ease-in-out;
-  transition: 0.2s background ease-in-out;
+.cid-s0hdhRuyZR .mbr-text {
+  color: #232323;
 }
 .cid-s0e51YEm7O {
   padding-top: 0px;
@@ -4525,8 +4541,16 @@ section.lazy-placeholder:after {
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
 }
+.cid-s0hdqxVMr0 {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s0hdqxVMr0 .mbr-text {
+  color: #232323;
+}
 .cid-s0d1hlv3It {
-  padding-top: 15px;
+  padding-top: 0px;
   padding-bottom: 15px;
   background-color: #ffffff;
 }
