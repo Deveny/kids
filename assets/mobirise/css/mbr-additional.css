@@ -1552,7 +1552,7 @@ background-color: rgba(255,134,0,0.8);
 .cid-s0c8DpEdvF {
   padding-top: 45px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/workshop-film5.jpeg");
+  background-image: url("../../../assets/images/rodeklas.jpg");
 }
 .cid-s0cfcwByUU {
   padding-top: 60px;
@@ -1941,7 +1941,7 @@ background-color: rgba(255,134,0,0.8);
 }
 .cid-s0caVMC09L {
   padding-top: 0px;
-  padding-bottom: 45px;
+  padding-bottom: 15px;
   background-color: #ffffff;
 }
 .cid-s0caVMC09L .mbr-slider .carousel-control {
@@ -1996,6 +1996,160 @@ background-color: rgba(255,134,0,0.8);
   z-index: 2;
 }
 .cid-s0caVMC09L .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #ff1e1e !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
+.cid-s0n8Auru0S {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s0n8Auru0S .mbr-text {
+  color: #232323;
+}
+.cid-s0n98HydXm {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s0n98HydXm .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-s0n98HydXm .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-s0n98HydXm .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-s0n98HydXm .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-s0n98HydXm .row > .row {
+  display: block;
+}
+.cid-s0n98HydXm .mbr-gallery-item {
+  width: 100%;
+}
+.cid-s0n98HydXm .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #ff1e1e;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-s0n98HydXm .mbr-gallery-item > div {
+  position: relative;
+}
+.cid-s0n98HydXm .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-s0n98HydXm .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-s0n98HydXm .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-s0n98HydXm .mbr-gallery-title:before {
+  content: " ";
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: -1;
+  position: absolute;
+  background: #ff1e1e !important;
+  opacity: 0.7;
+  -webkit-transition: 0.2s background ease-in-out;
+  transition: 0.2s background ease-in-out;
+}
+.cid-s0n8U69wYg {
+  padding-top: 45px;
+  padding-bottom: 0px;
+  background-color: #ffffff;
+}
+.cid-s0n8U69wYg .mbr-text {
+  color: #232323;
+}
+.cid-s0n8GolX8q {
+  padding-top: 0px;
+  padding-bottom: 15px;
+  background-color: #ffffff;
+}
+.cid-s0n8GolX8q .mbr-slider .carousel-control {
+  background: #1b1b1b;
+}
+.cid-s0n8GolX8q .mbr-slider .carousel-control-prev {
+  left: 0;
+  margin-left: 2.5rem;
+}
+.cid-s0n8GolX8q .mbr-slider .carousel-control-next {
+  right: 0;
+  margin-right: 2.5rem;
+}
+.cid-s0n8GolX8q .mbr-slider .modal-body .close {
+  background: #1b1b1b;
+}
+.cid-s0n8GolX8q .row > .row {
+  display: block;
+}
+.cid-s0n8GolX8q .mbr-gallery-item {
+  width: 100%;
+}
+.cid-s0n8GolX8q .mbr-gallery-item > div::before {
+  content: '';
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: 100%;
+  background: #ff1e1e;
+  opacity: 0;
+  -webkit-transition: 0.2s opacity ease-in-out;
+  transition: 0.2s opacity ease-in-out;
+}
+.cid-s0n8GolX8q .mbr-gallery-item > div {
+  position: relative;
+}
+.cid-s0n8GolX8q .mbr-gallery-item > div:hover .mbr-gallery-title::before {
+  background: transparent !important;
+}
+.cid-s0n8GolX8q .mbr-gallery-item > div:hover:before {
+  opacity: 0.7 !important;
+}
+.cid-s0n8GolX8q .mbr-gallery-title {
+  font-size: .9em;
+  position: absolute;
+  display: block;
+  width: 100%;
+  bottom: 0;
+  padding: 1rem;
+  color: #fff;
+  z-index: 2;
+}
+.cid-s0n8GolX8q .mbr-gallery-title:before {
   content: " ";
   width: 100%;
   height: 100%;
